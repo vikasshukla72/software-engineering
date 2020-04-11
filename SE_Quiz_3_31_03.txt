@@ -1,0 +1,45 @@
+﻿1.process of verifying and validating that a software or application is bug free, meets the technical requirements
+a)software developing.
+b)software desgning
+c)Software testing
+d)none of these.
+
+Answer--c)software testing
+
+2-it refers to the set of tasks that ensure that software correctly implements a specific function.
+a)validation
+b)verification
+c)modification
+d)none of these.
+
+Answer-b)verification.
+
+3-it refers to a different set of tasks that ensure that the software that has been built is traceable to customer requirements.
+-
+a)validation
+b)verification
+c)modification
+d)none of these.
+
+Answer:a)validation
+
+4-In _____ type of testing, the tester tests the induvidual units of the software.
+b)manual testing
+c)unit testing
+d)System testing
+Answer:-b)unit testing
+
+5-A level of the software testing process where individual units are combined and tested as a group
+a)unit testing
+b)system testing.
+c)Acceptance Testing
+d)Integration testing
+answer:-d)intergration testing.
+
+6)The purpose of this test is to evaluate the system’s compliance with the specified requirements.
+a)unit testing
+b)system testing.
+c)Acceptance Testing
+d)Integration testing
+answer:-b)System testing
+
